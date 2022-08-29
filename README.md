@@ -2,10 +2,6 @@
 
 Hi 👋 My name is Juan Sebastián González López
 ==============================================
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif" width="250"/>
-</div>
-
 Backend Developer
 -----------------
 
