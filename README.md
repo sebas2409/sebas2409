@@ -2,7 +2,7 @@
 
 Hi 👋 My name is Juan Sebastián González López
 ==============================================
-Backend Developer
+Fullstack Developer
 -----------------
 
 Lifelong Learner.
