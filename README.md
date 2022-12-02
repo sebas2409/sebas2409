@@ -8,7 +8,7 @@ Fullstack Developer
 Lifelong Learner.
 
 *   🌍  I'm based in Spain
-*   ✉️  You can contact me at [juangonzalezlopez241829@gmail.com](mailto:juangonzalezlopez241829@gmail.com)
+*   ✉️  You can contact me at [juangonzalezlopez241829@gmail.com](mailto:juansgl.dev@gmail.com)
 *   ⚡  Books i've read: <a href="https://mis-libros-leidos.vercel.app/">Go to my books web page</a>
 <div>
   <a>
